@@ -6,7 +6,143 @@
     <description>Recent content on HugoTutorials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Thu, 03 Nov 2016 10:33:27 +0900</lastBuildDate>
     <atom:link href="http://test.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hugo5</title>
+      <link>http://test.com/hugo5/</link>
+      <pubDate>Thu, 03 Nov 2016 10:33:27 +0900</pubDate>
+      
+      <guid>http://test.com/hugo5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo4</title>
+      <link>http://test.com/hugo4/</link>
+      <pubDate>Thu, 03 Nov 2016 10:32:53 +0900</pubDate>
+      
+      <guid>http://test.com/hugo4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo3</title>
+      <link>http://test.com/hugo3/</link>
+      <pubDate>Thu, 03 Nov 2016 10:32:48 +0900</pubDate>
+      
+      <guid>http://test.com/hugo3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo2</title>
+      <link>http://test.com/hugo2/</link>
+      <pubDate>Thu, 03 Nov 2016 10:32:43 +0900</pubDate>
+      
+      <guid>http://test.com/hugo2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo1</title>
+      <link>http://test.com/hugo1/</link>
+      <pubDate>Thu, 03 Nov 2016 10:32:36 +0900</pubDate>
+      
+      <guid>http://test.com/hugo1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test10</title>
+      <link>http://test.com/test10/</link>
+      <pubDate>Thu, 03 Nov 2016 10:32:24 +0900</pubDate>
+      
+      <guid>http://test.com/test10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test9</title>
+      <link>http://test.com/test9/</link>
+      <pubDate>Thu, 03 Nov 2016 10:32:20 +0900</pubDate>
+      
+      <guid>http://test.com/test9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test8</title>
+      <link>http://test.com/test8/</link>
+      <pubDate>Thu, 03 Nov 2016 10:32:17 +0900</pubDate>
+      
+      <guid>http://test.com/test8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test7</title>
+      <link>http://test.com/test7/</link>
+      <pubDate>Thu, 03 Nov 2016 10:32:14 +0900</pubDate>
+      
+      <guid>http://test.com/test7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test6</title>
+      <link>http://test.com/test6/</link>
+      <pubDate>Thu, 03 Nov 2016 10:31:59 +0900</pubDate>
+      
+      <guid>http://test.com/test6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test5</title>
+      <link>http://test.com/test5/</link>
+      <pubDate>Thu, 03 Nov 2016 10:31:53 +0900</pubDate>
+      
+      <guid>http://test.com/test5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test4</title>
+      <link>http://test.com/test4/</link>
+      <pubDate>Thu, 03 Nov 2016 10:31:49 +0900</pubDate>
+      
+      <guid>http://test.com/test4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test3</title>
+      <link>http://test.com/test3/</link>
+      <pubDate>Thu, 03 Nov 2016 10:31:41 +0900</pubDate>
+      
+      <guid>http://test.com/test3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test2</title>
+      <link>http://test.com/test2/</link>
+      <pubDate>Thu, 03 Nov 2016 10:31:36 +0900</pubDate>
+      
+      <guid>http://test.com/test2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test1</title>
+      <link>http://test.com/test1/</link>
+      <pubDate>Thu, 03 Nov 2016 10:31:30 +0900</pubDate>
+      
+      <guid>http://test.com/test1/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

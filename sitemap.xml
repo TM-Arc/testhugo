@@ -3,6 +3,112 @@
   
   <url>
     <loc>http://test.com/</loc>
+    <lastmod>2016-11-03T10:33:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/hugo5/</loc>
+    <lastmod>2016-11-03T10:33:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/hugo4/</loc>
+    <lastmod>2016-11-03T10:32:53+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/hugo3/</loc>
+    <lastmod>2016-11-03T10:32:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/hugo2/</loc>
+    <lastmod>2016-11-03T10:32:43+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/hugo1/</loc>
+    <lastmod>2016-11-03T10:32:36+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/test10/</loc>
+    <lastmod>2016-11-03T10:32:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/test9/</loc>
+    <lastmod>2016-11-03T10:32:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/test8/</loc>
+    <lastmod>2016-11-03T10:32:17+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/test7/</loc>
+    <lastmod>2016-11-03T10:32:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/test6/</loc>
+    <lastmod>2016-11-03T10:31:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/test5/</loc>
+    <lastmod>2016-11-03T10:31:53+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/test4/</loc>
+    <lastmod>2016-11-03T10:31:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/test3/</loc>
+    <lastmod>2016-11-03T10:31:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/test2/</loc>
+    <lastmod>2016-11-03T10:31:36+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/test1/</loc>
+    <lastmod>2016-11-03T10:31:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/hoge4/</loc>
+    <lastmod>2016-11-03T10:30:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/hoge3/</loc>
+    <lastmod>2016-11-03T10:30:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/hoge2/</loc>
+    <lastmod>2016-11-03T10:30:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/hoge/</loc>
+    <lastmod>2016-11-03T10:30:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/post/about/</loc>
+    <lastmod>2016-11-03T09:32:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.com/about/</loc>
+    <lastmod>2016-11-03T09:32:16+09:00</lastmod>
   </url>
   
 </urlset>
