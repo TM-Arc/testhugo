@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HugoTutorials</title>
-    <link>https://tm-arc.github.io/testhugo/</link>
+    <link>https://tm-arc.github.io/testhugo/index.xml</link>
     <description>Recent content on HugoTutorials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
