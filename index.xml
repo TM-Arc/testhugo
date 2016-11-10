@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HugoTutorials</title>
-    <link>https://tm-arc.github.io/testhugo/index.xml</link>
+    <link>https://tm-arc.github.io/testhugo/</link>
     <description>Recent content on HugoTutorials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Nov 2016 19:41:10 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Nov 2016 18:04:10 +0900</lastBuildDate>
     <atom:link href="https://tm-arc.github.io/testhugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>test</title>
       <link>https://tm-arc.github.io/testhugo/test/</link>
-      <pubDate>Wed, 09 Nov 2016 19:41:10 +0900</pubDate>
+      <pubDate>Thu, 10 Nov 2016 18:04:10 +0900</pubDate>
       
       <guid>https://tm-arc.github.io/testhugo/test/</guid>
       <description></description>
