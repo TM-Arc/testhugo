@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
 * {
   margin: 0;
   text-decoration: none; }
@@ -7,6 +8,8 @@ ul, ol {
   padding: 0; }
 
 body {
+  font-family: "Noto Sans JP", "Yu Gothic", YuGothic, "hiragino kaku gothic pro", meiryo, "ms pgothic", sans-serif;
+  font-weight: normal;
   display: flex;
   min-height: 100vh;
   flex-direction: column; }
@@ -18,13 +21,19 @@ header {
   background: #0074d3;
   background: linear-gradient(to right, #0074d3 0%, #44ade5 30%, #0074d3 61%, #07397e 90%);
   color: #FFF; }
+  header .logo {
+    padding: 3px 15px;
+    background: #000; }
   header .header-content {
     max-width: 60em;
-    margin: 0 auto;
+    margin: 0 auto 2em;
     padding: 10px;
     box-sizing: border-box; }
-    header .header-content h1 a {
-      color: #FFF; }
+    header .header-content h1 {
+      font-weight: 300;
+      font-size: 2em; }
+      header .header-content h1 a {
+        color: #FFF; }
 
 /* main content */
 .content {
