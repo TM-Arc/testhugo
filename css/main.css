@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/earlyaccess/notosansjp.css);
+@charset"utf-8";
 * {
   margin: 0;
   text-decoration: none; }
@@ -51,16 +52,50 @@ header {
 main {
   margin: 1em 2em 1em 1em;
   flex: 1; }
+  main section h1 {
+    color: #07397e;
+    font-size: 2em;
+    margin-bottom: 1em;
+    padding-left: 0.5em;
+    border-left: 10px solid #44ade5;
+    border-bottom: 1px solid #44ade5; }
+  main section h2 {
+    color: #07397e;
+    font-size: 1.5em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid #44ade5; }
 
-section h1 {
-  font-size: 1.5em;
+/* list-content */
+.list.content main ul li {
   margin-bottom: 1em; }
+  .list.content main ul li .title {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    padding-left: 0.5em;
+    border-left: 10px solid #44ade5;
+    border-bottom: 1px solid #44ade5; }
+    .list.content main ul li .title a {
+      color: #07397e; }
+  .list.content main ul li .date {
+    color: #888;
+    font-size: 0.8em; }
+
+/* single-content */
+.single.content .date {
+  color: #888;
+  font-size: 0.8em; }
 
 aside {
   margin: 1em 1em 1em 2em;
   flex: 0 0 19em;
   display: flex;
   flex-direction: column; }
+  aside .title {
+    font-weight: bold; }
+    aside .title a {
+      color: #07397e; }
 
 .banner {
   margin: 0 auto; }
@@ -73,11 +108,13 @@ aside {
     display: flex;
     flex-direction: column; }
     .popularity-content ul li, .new-content ul li {
-      margin-bottom: 0.5em; }
+      margin-bottom: 0.5em;
+      padding-bottom: 0.5em;
+      border-bottom: 1px solid #AAA; }
       .popularity-content ul li .title, .new-content ul li .title {
         margin-bottom: 0.5em; }
       .popularity-content ul li .discription, .new-content ul li .discription {
-        padding-left: 1em; }
+        font-size: 0.8em; }
 
 /* footer */
 footer {
